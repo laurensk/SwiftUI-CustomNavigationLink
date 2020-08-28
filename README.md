@@ -6,7 +6,7 @@ SwiftUI package to use custom views with NavigationLink.
 What is this?
 -------------
 
-SwiftUI-CustomNavigationLink allows you to use a freely designed view with the build-in NavigationView.
+SwiftUI-CustomNavigationLink allows you to use freely designed views with the build-in NavigationView.
 The CustomNavigationLink works like a button which navigates to the destination view.
 
 Install
